@@ -1,0 +1,270 @@
+Industry,ACSI Company,GD Company,ACSI,GD Overall,GD Comp Benefits,GD Culture Values,GD Career Ops,GD Work Life,GD Senior Mgmt,GD Eng Rev,GD Total Rev
+Airlines,Alaska,Alaska Airlines,80,3.7,3.7,3.6,3.5,3.2,3.1,539,577
+Airlines,American,American Airlines,73,3.7,3.8,3.4,3.5,3.4,2.9,2765,2953
+Airlines,Delta,Delta Air Lines,75,4.2,4.2,4.2,4,3.7,3.7,2723,2991
+Airlines,Frontier,Frontier Airlines,64,3.3,2.6,2.8,3.2,3.1,2.4,470,481
+Airlines,JetBlue,JetBlue,79,3.8,3.5,3.7,3.6,3.5,3,1198,1257
+Airlines,Southwest,Southwest Airlines,79,4.3,4.3,4.3,4.2,3.8,3.8,1891,2169
+Airlines,Spirit,Spirit Airlines,63,3.7,3.7,3.7,3.7,3.5,3.1,403,425
+Airlines,United,United Airlines,70,4,4,3.9,4,3.7,3.5,2949,3199
+Apparel,Hanesbrands,Hanesbrands,80,3,3.2,3.1,2.5,3.1,2.6,428,487
+Apparel,Levi Strauss,Levi Strauss,77,3.8,3.5,4,3.2,3.5,3.4,1342,1444
+Apparel,Premier Brands Group,Burger King,83,3.3,2.7,3,3.2,2.8,2.8,4744,6195
+Apparel,VF,VF,79,3.4,3.6,3.6,3.1,3.3,3.2,461,572
+Automobiles and Light Vehicles,BMW,BMW Manufacturing (SC),82,3.6,3.9,2.9,3.2,3.3,2.6,696,2095
+Automobiles and Light Vehicles,Fiat Chrysler,FCA Fiat Chrysler Automobiles,71,3.5,3.5,3.1,3.1,3,2.8,2228,3893
+Automobiles and Light Vehicles,Ford,Ford Motor Company,77,3.9,4,3.8,3.4,3.8,3.1,3693,5311
+Automobiles and Light Vehicles,GM,General Motors (GM),80,3.5,3.9,3.3,3.1,3.5,2.8,4376,6003
+Automobiles and Light Vehicles,Honda,Honda of America,82,3.5,3.8,3.4,3.5,2.9,3,737,1452
+Automobiles and Light Vehicles,Hyundai,Hyundai Motor America,79,3.1,3.1,3.1,3,2.9,3.1,124,131
+Automobiles and Light Vehicles,Kia,Kia Motors,76,3.9,3.5,3.2,3.2,3.7,3.5,146,209
+Automobiles and Light Vehicles,Mercedes-Benz,Mercedes Benz U.S. International,83,3.8,3.6,3.6,3.2,3.6,3.2,527,1383
+Automobiles and Light Vehicles,Mitsubishi,Mitsubishi Motors,76,3.2,3.2,3.1,2.6,3.2,2.8,31,43
+Automobiles and Light Vehicles,Nissan,Nissan,75,3.6,3.5,3.3,3.3,3.1,2.9,635,1281
+Automobiles and Light Vehicles,Subaru,Subaru Corporation,82,2.5,2.7,3.8,2.5,2.3,2.1,2,3
+Automobiles and Light Vehicles,Toyota,Toyota Motor Company,81,3.7,3.7,3.7,3.1,3.1,2.9,829,1351
+Automobiles and Light Vehicles,Volkswagen,Volkswagen Group,77,3.9,3.8,3.5,3.3,3.5,3.2,425,1834
+Automobiles and Light Vehicles,Volvo,Volvo Group,82,4.1,3.8,4.1,3.5,4.2,3.5,591,1043
+Banks,Bank of America,Bank of America,77,3.7,3.9,3.6,3.6,3.6,3.2,21847,23287
+Banks,BB&T,BB&T,80,3.4,3.8,3.5,3.1,3.3,3,1837,1875
+Banks,Capital One,Capital One,79,3.8,4.1,3.9,3.5,3.9,3.2,7256,7804
+Banks,Chase,Chase,79,3.7,3.8,3.7,3.5,3.5,3.2,7042,7147
+Banks,Citi,Citi,81,3.6,3.6,3.5,3.5,3.3,3.1,14717,16307
+Banks,Citizens Bank,Citizens Bank,78,3.4,3.4,3.4,3.3,3.5,3.1,2154,2225
+Banks,Fifth Third Bank,Fifth Third,78,3.4,3.5,3.4,3.4,3.3,3,1897,1967
+Banks,KeyBank,KeyBank,76,3.3,3.5,3.3,3.2,3.6,3,1518,1608
+Banks,PNC Bank,PNC Bank Arts Center,79,3.4,3.4,3.4,3.1,3.4,2.8,122,130
+Banks,Regions Bank,Regions Financial,78,3.2,3.4,3.2,3,3.6,2.8,1682,1714
+Banks,SunTrust Bank,SunTrust,76,3.5,3.6,3.6,3.2,3.5,2.9,2568,2649
+Banks,TD Bank,TD Bank,77,3.6,3.8,3.8,3.5,3.5,3.1,4621,9986
+Banks,U.S. Bank,U.S. Bank,79,3.4,3.2,3.5,3.2,3.4,2.9,5366,5561
+Consumer Shipping,U.S. Postal Service,U.S. Postal Service,74,2.9,3.6,2.4,3,2.9,2.9,6945,7503
+Consumer Shipping,FedEx,FedEx,79,3.7,3.6,3.7,3.5,3.6,3.3,4555,4950
+Consumer Shipping,UPS,UPS,79,3.5,3.7,3.2,3.4,3.1,2.9,13469,14378
+Department and Discount Stores,Belk,Belk,78,2.9,2.8,2.7,2.6,2.6,2.5,2022,2055
+Department and Discount Stores,Big Lots,Big Lots,73,3.1,3,3,2.8,2.9,2.7,1704,1734
+Department and Discount Stores,Dillard's,Dillard's,78,2.8,3.1,2.4,2.6,2.4,2.3,4514,4548
+Department and Discount Stores,Dollar General,Dollar General,73,2.7,2.4,2.5,2.8,2.3,2.3,6479,6519
+Department and Discount Stores,Dollar Tree,Dollar Tree,77,2.9,2.2,2.6,2.7,2.7,2.5,3711,3746
+Department and Discount Stores,JCPenney,J. C. Penney,78,3.2,2.9,3.1,2.9,3.1,2.7,7865,7978
+Department and Discount Stores,Ross Stores,Ross Stores,76,3.2,3,3,3.2,3,2.9,4812,4992
+Financial Advisors,LPL Financial,LPL Financial,78,3.3,3.2,3.1,3.1,3.6,2.9,729,842
+Financial Advisors,Morgan Stanley,Morgan Stanley,79,3.8,3.5,3.8,3.6,3.5,3.3,6973,8394
+Financial Advisors,Raymond James,Raymond James Financial,80,3.7,3.4,3.8,3.5,3.6,3.3,846,989
+Financial Advisors,UBS,UBS,80,3.5,3.3,3.4,3.3,3.5,3,4603,6040
+Financial Advisors,Wells Fargo,Wells Fargo,79,3.6,3.7,3.5,3.5,3.7,3,22935,24358
+Food Manufacturing,Campbell Soup,Campbell Soup Company,81,3.2,3.6,3,2.7,3.3,2.5,683,766
+Food Manufacturing,Conagra,Conagra Brands,81,3.5,3.8,3.2,3.2,3.3,3.1,1047,1140
+Food Manufacturing,Dole,Dole Food Company,83,4,3.8,4,3.5,3.7,3.8,92,101
+Food Manufacturing,Ferrero,Ferrero,81,3.4,3.4,3.5,2.9,3.2,2.8,329,630
+Food Manufacturing,General Mills,General Mills,82,3.8,3.7,3.9,3.4,3.9,3.2,1931,2347
+Food Manufacturing,Hershey,The Hershey Company,84,3.6,3.9,3.8,3.3,3.5,3.2,737,914
+Food Manufacturing,Kellogg,Kellogg and Kellogg,80,4.5,3.8,3.3,4,4.1,2.8,3,3
+Food Manufacturing,Kraft Heinz,Kraft Heinz Company,81,3.1,3.7,2.8,3.4,2.7,2.7,1889,3792
+Food Manufacturing,Mars,Mars,82,3.9,3.9,4.1,3.6,3.8,3.4,1664,2314
+Food Manufacturing,Tyson,Tyson,80,3.7,3.9,3.6,3.6,3.4,3.1,106,157
+Full-Service Restaurants,Applebee's,Applebee's,77,3.3,2.7,3.2,3,3,3,3716,3803
+Full-Service Restaurants,Chili's,Chili's Grill and Bar,78,3.3,3.2,3.3,3.1,3.4,2.9,3119,3139
+Full-Service Restaurants,Cracker Barrel,Cracker Barrel,82,3.2,3,3.3,3.2,3,2.9,3386,3398
+Full-Service Restaurants,Darden,Darden,81,3.9,3.7,3.8,3.6,3.5,3.4,1595,1605
+Full-Service Restaurants,Denny's,Denny's,77,3.2,2.6,2.7,2.8,2.8,2.6,1404,1424
+Full-Service Restaurants,Outback Steakhouse,Outback Steakhouse,79,3.6,3.1,3.6,3.3,3.1,3.1,2371,3074
+Full-Service Restaurants,Red Lobster,Red Lobster,78,3.4,3,3.3,3.2,3.3,3,2719,2744
+Full-Service Restaurants,Red Robin,Red Robin,79,3.3,2.9,3.3,3,3.2,2.8,1937,1948
+Full-Service Restaurants,Ruby Tuesday,Ruby Tuesday,78,3.1,2.6,3,2.9,2.9,2.7,1575,1587
+Full-Service Restaurants,Texas Roadhouse,Texas Roadhouse,83,3.8,3,4,3.4,3.6,3.4,2261,2272
+Full-Service Restaurants,TGI Fridays,TGI Fridays,78,3.1,2.7,3.2,3,2.9,2.8,1683,1710
+Health Insurance,Blue Cross and Blue Shield,Blue Cross and Blue Shield of North Carolina,71,3.7,3.6,3.7,3.3,3.8,3.3,501,557
+Health Insurance,Cigna,Cigna,72,3.5,3.6,3.6,3.3,3.7,3.2,2186,2372
+Health Insurance,CVS Health,CVS Health,76,2.8,2.9,2.7,2.8,2.6,2.4,16505,17023
+Health Insurance,Humana,Humana,79,3.5,3.7,3.6,3.2,3.4,3,3394,3561
+Health Insurance,Kaiser Permanente,Kaiser Permanente,77,3.9,4.4,3.7,3.7,3.7,3.2,6542,7288
+Health Insurance,UnitedHealth,UnitedHealth Group,75,3.3,3.2,3.3,3.2,3.5,2.8,10059,11285
+Hotels,Best Western,Best Western,77,3.4,2.8,3.2,3,3.2,3.1,947,1016
+Hotels,Choice,CHOICE,74,4.3,4.2,4.6,3.7,4.7,4.3,10,10
+Hotels,Hilton,Hilton,80,4.1,3.8,4.1,3.9,3.6,3.6,4500,4957
+Hotels,Hyatt,Hyatt,79,3.9,3.8,4,3.8,3.4,3.5,3004,3310
+Hotels,InterContinental,Intercontinental,78,4.5,3.8,4.6,4,4.1,4,12,13
+Hotels,Marriott,Marriott International,80,3.9,3.6,3.9,3.9,3.3,3.5,7287,7817
+Hotels,Motel 6,Motel 6,64,3,2.4,2.7,2.7,2.5,2.5,342,345
+Hotels,Wyndham,Wyndham Destinations,70,3.3,3.6,3.3,3.4,3.2,3,1238,1283
+Household Appliances,Bosch,Bosch,80,3.9,3.8,4,3.5,3.9,3.6,348,918
+Household Appliances,Electrolux,Electrolux,79,3.5,3.7,3.5,3.2,3.5,2.9,693,1272
+Household Appliances,Haier,Haier America,80,2.9,2.9,2.5,2.4,3,2.4,79,79
+Household Appliances,LG,LG U+,82,3.6,2.8,3.7,3.5,4.4,3.1,20,21
+Household Appliances,Whirlpool,Whirlpool Corporation,80,4,3.7,4.1,3.8,3.8,3.5,1994,3152
+Internet Investment Services,Charles Schwab,Charles Schwab,81,3.6,3.6,3.8,3.3,3.7,3.2,2420,2607
+Internet Investment Services,E*Trade,E*TRADE Financial,78,3.9,3.9,3.9,3.6,3.8,3.6,965,1002
+Internet Investment Services,Edward Jones,Edward Jones,80,3.9,3.7,4.1,3.8,3.8,3.8,2619,2762
+Internet Investment Services,Fidelity,Fidelity D & D,81,3.7,2.9,3,3.3,3,3,2,2
+Internet Investment Services,TD Ameritrade,TD Ameritrade,79,3.7,3.6,3.9,3.3,3.9,3.4,1374,1498
+Internet Investment Services,Vanguard,Vanguard,81,3.2,3.1,3.5,3,3.7,2.9,2425,2593
+Internet News and Opinion,ABCNews.com,ABC News,73,3.4,3.5,3.2,3.1,2.7,3,170,233
+Internet News and Opinion,Fox Corporation,Fox Corporation,78,3.7,3,3,3,4,2.6,6,6
+Internet News and Opinion,NBCUniversal,NBCUniversal,73,3.8,3.6,3.6,3.4,3.4,3.1,2081,2887
+Internet News and Opinion,New York Times,New York Times,76,3.8,3.9,3.9,3.5,3.7,3.4,396,463
+Internet News and Opinion,Gannett,Gannett,74,3,3.1,2.9,2.8,3.3,2.7,1434,1487
+Internet News and Opinion,Verizon,Verizon,70,3.7,4.2,3.5,3.4,3.3,3,20369,21209
+Internet News and Opinion,AT&T,AT&T,69,3.4,4,3.1,3.1,3.1,2.8,21782,23622
+Internet Retail,eBay,eBay,79,3.6,3.8,3.7,3.3,3.8,2.9,2792,3252
+Internet Retail,Etsy,Etsy,82,3.8,4.5,4.1,3.4,4.1,3.5,155,183
+Internet Retail,Groupon,Groupon,77,3.5,3.4,3.7,3.3,4,3,2505,2888
+Internet Retail,HP Store,HP Inc.,81,4,3.6,4.2,3.6,4.1,3.6,2550,3599
+Internet Retail,Kohl's,Kohl's,81,3.4,3,3.6,3,3.4,3.2,10094,10464
+Internet Retail,Macy's,Macy's,80,3.2,2.9,3.1,3,3.1,2.7,18823,19339
+Internet Retail,Newegg,Newegg,81,2.6,2.7,2.5,2.4,3,2.1,372,382
+Internet Retail,Nike,NIKE,81,4,3.8,4.1,3.5,3.7,3.3,4597,5574
+Internet Retail,Nordstrom,Nordstrom,82,3.6,3.5,3.7,3.4,3.1,3.1,11636,12021
+Internet Retail,Overstock,Overstock.com,79,2.8,3.2,2.9,2.7,3.4,2.2,849,864
+Internet Retail,Sears,Sears,73,2.9,2.6,2.7,2.6,3,2.4,11922,12250
+Internet Retail,Walgreens,Walgreens,75,3,2.9,2.8,2.9,2.7,2.5,15688,16125
+Internet Retail,Wayfair,Wayfair,80,3.2,3.1,3.3,3.2,3.5,2.9,1939,2145
+Internet Service Providers,AT&T Internet,AT&T,69,3.4,4,3.1,3.1,3.1,2.8,21786,23627
+Internet Service Providers,CenturyLink,CenturyLink,59,3,3.2,2.8,2.7,3.3,2.5,4009,4256
+Internet Service Providers,Windstream,Windstream,57,3,2.9,2.9,2.8,3.3,2.6,1456,1504
+Internet Social Media,Facebook,Facebook,63,4.4,4.7,4.4,4.4,3.9,4.1,2131,4419
+Internet Social Media,Pinterest,Pinterest,80,4.1,3.9,4.3,3.8,4.4,3.8,262,310
+Internet Social Media,Snapchat,Snap,71,3.4,4.1,3.3,3.1,3.3,2.8,228,287
+Internet Social Media,Twitter,Twitter,69,4,4.1,4.2,3.6,4,3.4,808,955
+Internet Social Media,Wikipedia,Wikimedia Foundation,74,3.6,3.7,3.7,3.1,4.2,3.2,71,90
+Internet Travel Services,Expedia,Expedia Group,79,3.8,3.8,3.9,3.3,4.1,3.1,3177,3512
+Internet Travel Services,Priceline,Priceline.com,76,3.3,3.8,3.9,3.2,4.2,3.4,187,201
+Internet Travel Services,TripAdvisor,Tripadvisor,82,3.6,4.1,3.8,3.2,3.9,3,663,758
+Investor-Owned Energy Utilities,Ameren,Ameren,75,3.8,4,3.6,3.7,3.7,3.4,206,266
+Investor-Owned Energy Utilities,American Electric Power,American Electric Power,68,3.5,3.6,3.1,3.2,3.4,3.1,346,409
+Investor-Owned Energy Utilities,Atmos Energy,Atmos Energy,78,3.7,4.1,3.7,3.4,3.5,3.3,125,139
+Investor-Owned Energy Utilities,Berkshire Hathaway Energy,Berkshire Hathaway Energy,74,2.1,1.8,1.8,1.6,1.8,1.8,6,6
+Investor-Owned Energy Utilities,CenterPoint Energy,CenterPoint Energy,80,3.7,4.2,3.2,3.5,3.3,2.9,296,350
+Investor-Owned Energy Utilities,CMS Energy,CMS Energy,73,3,3.6,3.5,2.5,3.6,2.5,10,10
+Investor-Owned Energy Utilities,Consolidated Edison Company of New York,Con Edison,78,3.7,3.8,3.3,3.6,3.5,3.3,538,685
+Investor-Owned Energy Utilities,Dominion Energy,Dominion Energy,76,4,4,3.9,3.8,3.9,3.6,314,390
+Investor-Owned Energy Utilities,DTE Energy,DTE Energy,72,3.7,4,3.6,3.6,3.4,3,331,508
+Investor-Owned Energy Utilities,Duke Energy,Duke Energy,70,3.6,3.9,3.5,3.4,3.4,2.9,765,953
+Investor-Owned Energy Utilities,Edison International,Edison International,75,3.2,3.8,2.8,3.1,3.6,3,27,28
+Investor-Owned Energy Utilities,Entergy,Entergy,75,3.7,3.9,3.4,3.3,3.7,3.1,194,222
+Investor-Owned Energy Utilities,Eversource Energy,Eversource Energy,68,3.9,4.3,3.8,3.7,3.8,3.5,254,292
+Investor-Owned Energy Utilities,Exelon,Exelon,73,3.7,4.2,3.6,3.5,3.4,3.1,590,711
+Investor-Owned Energy Utilities,FirstEnergy,FirstEnergy,72,3.7,4.2,3.1,3.4,3.4,2.9,277,316
+Investor-Owned Energy Utilities,National Grid,National Grid,71,3.4,3.6,3.3,3.3,3.7,2.8,798,972
+Investor-Owned Energy Utilities,NextEra Energy,"NextEra Energy, Inc.",77,3.2,3.3,2.9,3.1,2.8,2.6,464,544
+Investor-Owned Energy Utilities,NiSource,NiSource,76,3.6,3.8,4,3.5,4,3.1,147,167
+Investor-Owned Energy Utilities,PG&E,PG&E,70,3.3,3.9,3.2,3.3,3.4,2.6,1190,1417
+Investor-Owned Energy Utilities,PPL,PPL,73,2.6,3.5,2.4,2.5,2.5,2.3,208,254
+Investor-Owned Energy Utilities,Public Service Enterprise Group,PSEG,72,3.5,3.9,3,3.2,3.3,2.9,374,451
+Investor-Owned Energy Utilities,Sempra Energy,Sempra Energy,75,3.9,4.3,3.8,3.6,3.6,3.6,143,167
+Investor-Owned Energy Utilities,Southern Company,Southern Company,77,3.7,4,3.6,3.5,3.5,3.1,495,603
+Investor-Owned Energy Utilities,WEC Energy,WEC Energy Group,76,2.8,3.3,2,2.6,2.9,2.3,48,55
+Investor-Owned Energy Utilities,Xcel Energy,Xcel Energy,74,3.7,3.5,3.7,3.5,3.9,3.4,394,485
+Life Insurance,Lincoln Financial,Lincoln Financial Group,78,3.3,3.5,3.4,3,3.3,2.9,863,958
+Life Insurance,MetLife,MetLife,79,3.7,3.7,3.6,3.3,3.7,3.1,3315,3887
+Life Insurance,Mutual of Omaha,Mutual of Omaha,82,3.7,3.7,3.7,3.7,3.8,3.5,466,557
+Life Insurance,New York Life,New York Life,82,3.5,3.5,3.7,3.6,3.5,3.5,2593,3017
+Life Insurance,Prudential,Prudential,78,3.6,3.7,3.5,3.2,3.7,3,2275,2851
+Limited-Service Restaurants,Burger King,Burger King,76,3.3,2.7,3,3.2,2.8,2.8,4745,6196
+Limited-Service Restaurants,Chick-fil-A,Chick-fil-A,86,3.9,3.2,4.1,3.5,3.6,3.5,5990,6088
+Limited-Service Restaurants,Chipotle Mexican Grill,Chipotle,80,3.4,3.5,3.5,3.5,3.1,2.9,6188,6239
+Limited-Service Restaurants,Domino's Pizza,Domino's Pizza,79,3.5,2.8,3.2,3.2,3.1,3,5429,5814
+Limited-Service Restaurants,Dunkin',Dunkin' Donuts,78,3.2,2.3,2.8,2.7,2.9,2.6,3344,3383
+Limited-Service Restaurants,Inspire Brands,Inspire Brands,76,3.6,3.5,3.9,3.7,3.9,3.4,20,24
+Limited-Service Restaurants,Jack in the Box,Jack in the Box,75,3,2.7,3,3,2.8,2.7,1040,1060
+Limited-Service Restaurants,Little Caesars,Little Caesars,77,3.2,2.4,3.1,3,3.1,2.8,1879,2004
+Limited-Service Restaurants,McDonald's,McDonald's,69,3.4,2.9,3.2,3.3,3.2,3,29662,34817
+Limited-Service Restaurants,Panera Bread,Panera Bread,81,3.2,2.8,3.3,3,3,2.7,7402,7441
+Limited-Service Restaurants,Papa John's,Papa John's,80,3.4,2.6,3,2.8,3.2,2.9,2833,2858
+Limited-Service Restaurants,Starbucks,Starbucks,79,3.8,3.8,3.9,3.5,3.5,3.2,25055,26085
+Limited-Service Restaurants,Subway,Subway,79,3.3,2.4,3,2.7,3.1,2.8,7328,8124
+Limited-Service Restaurants,Wendy's,Wendy's,77,3.2,2.6,3.1,3,3,2.8,4368,4455
+Limited-Service Restaurants,Yum! Brands,Yum!,75,3.9,3.7,4.1,3.4,3.4,3.5,335,373
+Personal Care and Cleaning Products,Clorox,The Clorox Company,82,3.9,3.7,4,3.4,4.2,3.6,784,908
+Personal Care and Cleaning Products,Colgate-Palmolive,Colgate-Palmolive,82,4,3.7,4,3.5,3.8,3.6,1038,1691
+Personal Care and Cleaning Products,Henkel,Henkel,77,4,3.7,3.9,3.8,3.8,3.5,1383,2285
+Personal Care and Cleaning Products,Johnson & Johnson,Johnson & Johnson,77,4,4,4.1,3.6,3.8,3.4,4677,6816
+Personal Care and Cleaning Products,Procter and Gamble,Procter and Gamble,84,3.3,3.9,3.2,3.3,3.4,2.6,1190,1417
+Personal Care and Cleaning Products,Unilever,Unilever,80,3.9,3.7,4,3.6,3.6,3.4,4094,6576
+Personal Computers,Acer,Acer Group,77,4.4,3.9,4.4,4.2,4.1,4.3,174,195
+Personal Computers,Amazon,Amazon,79,3.9,3.9,3.8,3.8,3.4,3.4,38285,42574
+Personal Computers,Apple,Apple,83,4.1,4.2,4.1,3.5,3.4,3.5,15618,17178
+Personal Computers,ASUS,ASUS,76,3.3,3.1,2.9,3,3.2,2.8,507,562
+Personal Computers,Dell,Dell Technologies,77,4,3.8,4.1,3.9,4.1,3.6,14108,15917
+Personal Computers,HP,HP Inc.,78,4,3.6,4.2,3.6,4.1,3.6,2550,3599
+Personal Computers,Lenovo,Lenovo,74,3.9,3.8,3.7,3.5,3.7,3.4,1470,1900
+Personal Computers,Samsung,Samsung Electronics,81,3.6,3.8,3.2,3.2,3.1,3,4592,6025
+Personal Computers,Toshiba,Toshiba,77,3.3,3.3,3.2,2.9,3.3,2.8,904,1044
+Property and Casualty Insurance,AAA,American Automobile Association (AAA),76,3.2,3.2,3.1,2.9,3,2.7,1386,1462
+Property and Casualty Insurance,Allstate,Allstate,78,3.4,3.2,3.4,3.2,3.5,2.9,4859,5162
+Property and Casualty Insurance,American Family,American Family Insurance,77,3.5,3.8,3.5,3.1,3.7,2.8,953,1047
+Property and Casualty Insurance,Farmers,Farmers Cooperative,80,4,3.7,3.3,3,3.7,2.9,4,4
+Property and Casualty Insurance,GEICO,GEICO,79,3.3,3.8,3.2,3.5,3,3,4181,4320
+Property and Casualty Insurance,Liberty Mutual,Liberty Mutual Insurance,78,3.3,3.7,3.3,3.1,3.5,2.8,4364,4870
+Property and Casualty Insurance,Progressive,Progressive Insurance,78,3.6,4,4,3.7,3.3,3.4,2598,2656
+Property and Casualty Insurance,State Farm,State Farm,81,3.2,3.2,3.1,3,3.1,2.7,8765,9240
+Soft Drinks,Coca-Cola,Coca-Cola GmbH,81,3.7,3.8,3.7,3.2,3.6,3.6,5,10
+Soft Drinks,Keurig Dr Pepper,Keurig Dr Pepper,82,3.3,3.5,3.1,3.1,3.2,3,249,262
+Soft Drinks,PepsiCo,PepsiCo,82,3.7,3.7,3.6,3.4,3.3,3.1,7344,9551
+Specialty Retail Stores,Abercrombie & Fitch,Abercrombie & Fitch,79,3.4,2.8,3.5,2.9,3.5,3,5607,5711
+Specialty Retail Stores,Advance Auto Parts,Advance Auto Parts,78,3.2,2.7,3,2.9,2.9,2.7,2638,2676
+Specialty Retail Stores,Ascena,Ascena Retail Group,80,3.3,3.4,3.2,2.9,3.4,2.8,217,227
+Specialty Retail Stores,AutoZone,AutoZone,77,3.2,2.9,3.2,3,2.9,2.8,2757,2854
+Specialty Retail Stores,Barnes & Noble,Barnes & Noble,81,3.4,2.7,3.5,2.6,3.5,2.9,4072,4131
+Specialty Retail Stores,Bed Bath & Beyond,Bed Bath & Beyond,80,3,2.6,2.8,2.6,2.9,2.5,3555,3601
+Specialty Retail Stores,Best Buy,Best Buy,77,3.8,3.6,3.9,3.5,3.5,3.3,20640,20964
+Specialty Retail Stores,Burlington,Burlington,76,3.2,3,3.4,3.1,3,3,119,120
+Specialty Retail Stores,Cabela's,Cabela's,80,2.9,2.8,3.1,2.6,2.9,2.6,1271,1284
+Specialty Retail Stores,Dick's Sporting Goods,DICK'S Sporting Goods,76,3.3,2.8,3.2,2.9,3.1,2.8,4339,4409
+Specialty Retail Stores,Foot Locker,Foot Locker,79,3.5,3,3.5,3.2,3.3,3,1576,1689
+Specialty Retail Stores,GameStop,GameStop,75,2.9,2.4,2.7,2.6,2.9,2.5,4427,4497
+Specialty Retail Stores,Gap,Gap,79,3.6,3.1,3.5,3,3.4,3,5393,5573
+Specialty Retail Stores,Home Depot,The Home Depot,78,3.6,3.3,3.7,3.4,3.4,3.1,21976,22486
+Specialty Retail Stores,L Brands,L Brands,82,3.7,3.7,3.7,3.4,3.3,3.1,735,819
+Specialty Retail Stores,Lowe's,Lowe's,78,3.3,3.4,3.1,3.1,2.8,2.7,19730,20031
+Specialty Retail Stores,Menards,Menards,80,3.2,2.9,3.2,3.5,2.9,2.9,2749,2796
+Specialty Retail Stores,Michaels,Michaels,77,3.2,2.6,3.2,2.8,3.1,2.7,4027,4084
+Specialty Retail Stores,Office Depot,Office Depot,76,3.1,2.8,2.9,2.7,3.1,2.7,4590,4842
+Specialty Retail Stores,O'Reilly Auto Parts,O'Reilly Auto Parts,78,3.1,2.8,3.3,3.1,2.9,2.7,1873,1893
+Specialty Retail Stores,Petco,Petco,77,3,2.8,3.3,2.9,2.9,2.6,3088,3169
+Specialty Retail Stores,PetSmart,PetSmart,78,3.2,2.9,3.3,3,3.1,2.8,4725,4775
+Specialty Retail Stores,Sephora,Sephora,80,3.5,3.3,3.8,3.3,3.3,3.1,1895,4192
+Specialty Retail Stores,Staples,Staples,77,3.1,2.8,3,2.8,3.3,2.7,8398,8636
+Specialty Retail Stores,TJX,TJX Companies,79,3.4,3.2,3.4,3.2,3.4,3.1,1132,2183
+Specialty Retail Stores,Ulta Beauty,Ulta Beauty,80,3.2,3,3.3,3,3,2.8,4992,5045
+Supermarkets,Ahold Delhaize,Ahold Delhaize,77,3.5,3.7,3.5,3.1,3.7,3.2,96,168
+Supermarkets,Albertsons Companies,Albertsons Companies,75,3.2,3.1,2.9,3,2.9,2.6,1569,1597
+Supermarkets,Aldi,ALDI,83,3.4,3.8,3.2,3.2,2.6,3,3698,4295
+Supermarkets,BJ's Wholesale Club,BJ's Wholesale Club,82,2.9,2.9,2.9,2.9,3,2.7,1401,1432
+Supermarkets,Costco,Costco Wholesale,83,4,4.3,3.9,3.8,3.5,3.4,6184,6603
+Supermarkets,Giant Eagle,Giant Eagle,76,3.2,3.1,3.1,2.9,3,2.8,1616,1653
+Supermarkets,HEB,HEB ISD,84,3.7,3.3,3.5,3.3,3.1,3.1,38,40
+Supermarkets,Hy-Vee,Hy-Vee,78,3.5,3.2,3.5,3.3,3.3,2.8,2123,2148
+Supermarkets,Kroger,Kroger,79,3,3,2.9,2.9,2.7,2.5,9888,10055
+Supermarkets,Meijer,Meijer,78,3.1,3,3.1,2.9,2.9,2.7,2908,2962
+Supermarkets,Publix,Publix,83,3.8,3.8,3.8,3.8,3.3,3.3,6782,6839
+Supermarkets,Save-A-Lot,Save-A-Lot Food Stores,75,2.3,2.4,2,2.1,2.1,1.9,836,843
+Supermarkets,ShopRite,Shoprite Supermarkets,80,3.2,2.7,2.9,2.9,3,2.8,1797,1819
+Supermarkets,Southeastern Grocers,Southeastern Grocers,76,3,2.8,2.9,2.9,3.3,2.9,171,179
+Supermarkets,Supervalu,SuperValu Ireland,76,3.3,2.5,3.2,2.5,3.2,2.9,157,158
+Supermarkets,Target,Target,79,3.4,3.3,3.4,3,3.1,2.9,34731,35596
+Supermarkets,Trader Joe's,Trader Joe's,84,4.2,4.2,4.3,3.7,3.9,3.8,2968,2990
+Supermarkets,Walmart,Walmart,73,3.2,3.3,3.1,3.3,2.9,2.7,46577,50714
+Supermarkets,Wegmans,Wegmans Food Markets,84,4,3.9,4.1,3.8,3.8,3.5,2352,2404
+Video Streaming Service,Amazon,Amazon,76,3.9,3.9,3.8,3.8,3.4,3.4,38285,42574
+Video Streaming Service,Apple,Apple,76,4.1,4.2,4.1,3.5,3.4,3.5,15619,17179
+Video Streaming Service,CBS Corporation,CBS,75,3.6,3.7,3.3,3.3,3.6,3.1,1064,1239
+Video Streaming Service,Google,Google,75,4.4,4.5,4.3,4.2,4.2,3.9,9899,13169
+Video Streaming Service,HBO,HBO,74,3.6,3.8,3.4,2.9,3.9,3,464,567
+Video Streaming Service,Hulu,Hulu,76,3.8,4.1,3.9,3.6,3.8,3.3,392,454
+Video Streaming Service,Netflix,Netflix,79,3.9,4.5,3.8,3.6,3.3,3.4,912,1015
+Video Streaming Service,Showtime,Showtime Networks,71,3.8,3.1,3.6,3,3.9,3.4,140,173
+Video Streaming Service,Sony,Sony,68,3.7,3.4,3.6,3.3,3.6,3.1,1447,1852
+Video Streaming Service,Sony PlayStation,Sony PlayStation,78,3.4,3.3,3.4,2.9,3.5,2.8,705,904
+Video Streaming Service,Starz,Starz,72,2.9,3.5,2.4,2.3,3.2,2.2,190,216
+Video-on-Demand Service,Spectrum Communications,Spectrum Communications,64,3.2,3.4,3,3,2.5,2.5,16,17
+Video-on-Demand Service,Comcast,Comcast,66,3.5,3.9,3.4,3.4,3.3,3,8928,9412
+Video-on-Demand Service,Cox Communications,Cox Communications,66,3.7,4.1,3.7,3.4,3.5,3.2,2187,2348
+Video-on-Demand Service,DISH,DISH,71,2.9,2.9,2.7,3,2.7,2.5,4491,4669
+Video-on-Demand Service,Frontier Communications,Frontier Communications,67,2.5,3.3,2.2,2.3,2.7,1.9,1540,1615
+Wireless Telephone Service,AT&T,AT&T,74,3.4,4,3.1,3.1,3.1,2.8,21782,23622
+Wireless Telephone Service,Sprint,Sprint,69,3.2,3.6,3,3.1,3,2.7,8016,8203
+Wireless Telephone Service,T-Mobile,T-Mobile,76,4,4.2,4.2,3.7,3.7,3.6,4824,8474
+Wireless Telephone Service,TracFone Wireless,TracFone,78,2.6,2.9,2.4,2.2,2.6,2.2,207,237
+Wireless Telephone Service,U.S. Cellular,U.S. Cellular,74,3.4,4,3.6,3.1,3,3.3,1469,1503
+Wireless Telephone Service,Verizon Wireless,Verizon Wireless,74,3.6,4.3,3.4,3.4,3.1,3,135,142
